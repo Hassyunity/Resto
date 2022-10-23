@@ -3,7 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="app_bienvenue">Bienvenue dans notre resataurant</string>
+    <string name="app_bienvenue">Bienvenue dans notre resataurant te</string>
     <string name="app_notification_texte">Pas de notification</string>
     <string name="app_coming">En cours de developpement</string>
 </resources>
