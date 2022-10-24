@@ -1,2 +1,4 @@
 # Resto
-menu et heure d'attente
+** Gestion des menus disponible
+** affichage de la temps d'attente 
+** commande sans serveur
